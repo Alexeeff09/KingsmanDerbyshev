@@ -1,6 +1,5 @@
 # KingsmanDerbyshev
 # База данных
-![image](https://github.com/Alexeeff09/KingsmanDerbyshev/assets/126570527/e4d69659-3fc7-46b5-9d3a-398b180cb58f)
 # Окно авторизации
 ![image](https://github.com/Alexeeff09/KingsmanDerbyshev/assets/126570527/248b3ddf-af50-4a89-98b5-e657815e29f0)
 # Окно регистрации
